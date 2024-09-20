@@ -15,7 +15,7 @@ This is a solution of a Score keeper application.
 ### Links
 
 - Solution URL: [Solution](https://github.com/SirTebz/ScoreKeeper)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://sirtebz.github.io/ScoreKeeper/)
 
 ## Process
 
